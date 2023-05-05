@@ -1,0 +1,21 @@
+#img{
+    height: 30vh;
+    width: 20vw;
+    align-self: center;
+    padding-top: 10px;
+}
+#card{
+    /* padding-top: 300px; */
+    height: 450px;
+    width: 500px;
+    /* align-items: center; */
+}
+.h{
+    padding-top: 40px;
+    padding-left: 300px;
+    text-align: center;
+    /* color: grey; */
+    /* background-color: grey; */
+    
+
+}

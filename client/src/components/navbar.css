@@ -1,0 +1,36 @@
+#nav{
+    background-color: grey;
+    
+   
+    /* opacity: 0.3; */
+    /* width: 200vw; */
+    /* height: 100vh; */
+   position: sticky;
+    /* z-index: 1; */
+    padding-left: 100px;
+}
+.home{
+    padding-right: 40px;
+    size-adjust: 200px;
+    
+}
+/* .spoon{
+    color: red;
+} */
+.hai{
+    padding-right: 40px;
+    color: black;
+}
+.regi{
+    padding-right: 60px;
+}
+/* #search{
+    border: 1px solid black;
+
+} */
+.menus{
+    padding-right: 50px;
+}
+.cat{
+    padding-right: 30px;
+}
